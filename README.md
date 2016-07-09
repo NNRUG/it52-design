@@ -1,2 +1,3 @@
 # it52-design
-it52.info design
+
+https://www.it52.info design repository
