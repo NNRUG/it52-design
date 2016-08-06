@@ -1,3 +1,9 @@
-# it52-design
+# IT52 Design Repo
+Repo contains design for website, mobile and desktop apps.
 
-https://www.it52.info design repository
+Current finished work with design for android mobile app.
+
+### Android
+All mockups see in `app/android`.
+#### *Preview*
+![Preview Android](https://github.com/NNRUG/it52-design/raw/master/app/android/Preview.png)
